@@ -23,7 +23,7 @@ const {decorator: resultTemplateDecorator} = wrapInResultTemplate(false);
 
 const meta: Meta = {
   component: 'atomic-format-currency',
-  title: 'Search/Format Currency',
+  title: 'Reference/Search/Format Currency',
   id: 'atomic-format-currency',
 
   render: (args) => template(args),

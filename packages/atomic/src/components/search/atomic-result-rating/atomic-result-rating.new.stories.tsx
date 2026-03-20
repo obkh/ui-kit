@@ -31,7 +31,7 @@ const {decorator: resultTemplateDecorator} = wrapInResultTemplate();
 
 const meta: Meta = {
   component: 'atomic-result-rating',
-  title: 'Search/Result Rating',
+  title: 'Reference/Search/Result Rating',
   id: 'atomic-result-rating',
   render: (args) => template(args),
   decorators: [

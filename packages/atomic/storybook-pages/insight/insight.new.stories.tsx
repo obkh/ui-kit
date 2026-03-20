@@ -20,7 +20,7 @@ const mockInsightApi = new MockInsightApi();
 
 const meta: Meta = {
   component: 'insight-page',
-  title: 'Insight/Example Pages',
+  title: 'Reference/Insight/Example Pages',
   id: 'insight-page',
   parameters: {
     ...parameters,

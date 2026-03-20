@@ -29,7 +29,7 @@ const {events, args, argTypes, template} = getStorybookHelpers(
 
 const meta: Meta = {
   component: 'atomic-commerce-timeframe-facet',
-  title: 'Commerce/Facet (Timeframe)',
+  title: 'Reference/Commerce/Facet (Timeframe)',
   id: 'atomic-commerce-timeframe-facet',
   render: (args) => template(args),
   decorators: [commerceFacetWidthDecorator, decorator],

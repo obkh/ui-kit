@@ -10,7 +10,7 @@ const {decorator, play} = wrapInInsightInterface();
 
 const meta: Meta = {
   component: 'atomic-insight-result-action-bar',
-  title: 'Insight/Result Action Bar',
+  title: 'Reference/Insight/Result Action Bar',
   id: 'atomic-insight-result-action-bar',
   decorators: [decorator],
   parameters: {

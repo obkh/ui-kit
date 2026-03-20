@@ -75,7 +75,7 @@ const layoutDecorator = (story: () => unknown) => html`
 
 const meta: Meta = {
   component: 'atomic-insight-folded-result-list',
-  title: 'Insight/Folded Result List',
+  title: 'Reference/Insight/Folded Result List',
   id: 'atomic-insight-folded-result-list',
 
   render: (args) => template(args),

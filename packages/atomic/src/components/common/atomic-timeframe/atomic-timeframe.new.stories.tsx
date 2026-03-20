@@ -16,7 +16,7 @@ const {events, args, argTypes, template} = getStorybookHelpers(
 
 const meta: Meta = {
   component: 'atomic-timeframe',
-  title: 'Common/Timeframe',
+  title: 'Reference/Common/Timeframe',
   id: 'atomic-timeframe',
 
   render: (args) => html`

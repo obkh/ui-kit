@@ -11,7 +11,7 @@ const {events, args, argTypes, template} = getStorybookHelpers(
 
 const meta: Meta = {
   component: 'atomic-insight-edit-toggle',
-  title: 'Insight/Edit Toggle',
+  title: 'Reference/Insight/Edit Toggle',
   id: 'atomic-insight-edit-toggle',
   render: (args) => template(args),
   decorators: [decorator],

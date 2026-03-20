@@ -35,7 +35,7 @@ const {events, args, argTypes, template} = getStorybookHelpers(
 
 const meta: Meta = {
   component: 'atomic-result-image',
-  title: 'Search/Result Image',
+  title: 'Reference/Search/Result Image',
   id: 'atomic-result-image',
 
   render: (args) => template(args),

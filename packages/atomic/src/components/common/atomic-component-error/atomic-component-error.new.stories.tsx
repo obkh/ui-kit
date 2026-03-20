@@ -11,7 +11,7 @@ const {events, args, argTypes} = getStorybookHelpers('atomic-component-error', {
 
 const meta: Meta = {
   component: 'atomic-component-error',
-  title: 'Common/Component Error',
+  title: 'Reference/Common/Component Error',
   id: 'atomic-component-error',
 
   render: (args) => {

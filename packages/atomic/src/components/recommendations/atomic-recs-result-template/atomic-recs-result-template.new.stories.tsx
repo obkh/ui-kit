@@ -70,7 +70,7 @@ const {events, args, argTypes, template} = getStorybookHelpers(
 
 const meta: Meta = {
   component: 'atomic-recs-result-template',
-  title: 'Recommendations/Recs Result Template',
+  title: 'Reference/Recommendations/Recs Result Template',
   id: 'atomic-recs-result-template',
   render: (renderArgs) => template(renderArgs),
   parameters: {

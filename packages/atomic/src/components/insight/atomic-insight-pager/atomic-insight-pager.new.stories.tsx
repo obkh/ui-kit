@@ -16,7 +16,7 @@ const mockInsightApi = new MockInsightApi();
 
 const meta: Meta = {
   component: 'atomic-insight-pager',
-  title: 'Insight/Pager',
+  title: 'Reference/Insight/Pager',
   id: 'atomic-insight-pager',
 
   render: (args) => template(args),
