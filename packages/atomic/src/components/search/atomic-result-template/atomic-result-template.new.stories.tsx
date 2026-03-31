@@ -304,7 +304,7 @@ export const InASearchBoxInstantResults: Story = {
         })
       )
         ?.find((el) => el.getAttribute('part') === 'textarea')
-        ?.focus();
+        ?.click();
     });
   },
 };

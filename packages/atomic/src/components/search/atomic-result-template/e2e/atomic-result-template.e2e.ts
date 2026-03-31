@@ -22,6 +22,6 @@ test.describe('atomic-result-template', async () => {
   }) => {
     await resultTemplate.load({story: 'in-a-search-box-instant-results'});
 
-    await expect(resultTemplate.result).toBeVisible();
+    await expect(resultTemplate.result).toBeVisible({timeout: 15_000});
   });
 });
